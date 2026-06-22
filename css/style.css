@@ -32,7 +32,7 @@ header {
 }
 
 .nav-list li a {
-    color: white;
+    color: rgb(18, 63, 159);
     text-decoration: none;
     font-weight: bold;
 }
